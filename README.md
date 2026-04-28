@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abidur Rahman Sajim</h1>
 <h3 align="center">A Passionate DevOps Engineer from Bangladesh 🇧🇩</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=s4j1m&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/s4j1m?label=Followers&style=flat-square&color=0e75b6" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Sajim28&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Sajim28?label=Followers&style=flat-square&color=0e75b6" alt="GitHub Followers" />
 </p>
 ---
 👨‍💻 About Me
@@ -17,7 +17,7 @@
 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=s4j1m&theme=nord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sajim28&theme=nord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
   </a>
 </p>
 ---
@@ -77,16 +77,16 @@
 ---
 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s4j1m&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s4j1m&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sajim28&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sajim28&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4j1m&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sajim28&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="Top Languages" width="40%" />
 </p>
 ---
 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s4j1m&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajim28&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 ---
 <p align="center">
