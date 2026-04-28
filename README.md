@@ -1,37 +1,27 @@
 <h1 align="center">Hi 👋, I'm Abidur Rahman Sajim</h1>
 <h3 align="center">A Passionate DevOps Engineer from Bangladesh 🇧🇩</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=s4j1m&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/s4j1m?label=Followers&style=flat-square&color=0e75b6" alt="GitHub Followers" />
 </p>
-
 ---
-
-### 👨‍💻 About Me
-
-- 🔭 I'm currently working on **Cloud Native & DevOps Projects**
-- 🌱 I'm currently learning **Java & Advanced Cloud Technologies**
-- 👯 I'm looking to collaborate on **Cloud Native & Open Source Projects**
-- 🤝 I'm looking for help with **Kubernetes & Advanced CI/CD Pipelines**
-- 💬 Ask me about **Linux, Docker, Kubernetes, CI/CD, Python & JavaScript**
-- 📫 How to reach me: **sajimabidurrahman@gmail.com**
-- ⚡ Fun fact: **Gaming kills time but heals too 🎮**
-
+👨‍💻 About Me
+🔭 I'm currently working on Cloud Native & DevOps Projects
+🌱 I'm currently learning Java & Advanced Cloud Technologies
+👯 I'm looking to collaborate on Cloud Native & Open Source Projects
+🤝 I'm looking for help with Kubernetes & Advanced CI/CD Pipelines
+💬 Ask me about Linux, Docker, Kubernetes, CI/CD, Python & JavaScript
+📫 How to reach me: sajimabidurrahman@gmail.com
+⚡ Fun fact: Gaming kills time but heals too 🎮
 ---
-
-### 🏆 GitHub Trophies
-
+🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=s4j1m&theme=nord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
   </a>
 </p>
-
 ---
-
-### 🌐 Connect with Me
-
+🌐 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/abidur-rahman-sajim-173042386" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -52,12 +42,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
 ---
-
-### 🛠️ Languages & Tools
-
-#### 💻 Programming Languages
+🛠️ Languages & Tools
+💻 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -65,8 +52,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
-
-#### ☁️ DevOps & Cloud
+☁️ DevOps & Cloud
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -75,8 +61,7 @@
   <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
-
-#### 🌐 Web & Frameworks
+🌐 Web & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -84,36 +69,26 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </p>
-
-#### 🗄️ Databases & Messaging
+🗄️ Databases & Messaging
 <p align="left">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </p>
-
 ---
-
-### 📊 GitHub Stats
-
+📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=s4j1m&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=s4j1m&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4j1m&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="Top Languages" width="40%" />
 </p>
-
 ---
-
-### 📈 GitHub Activity Graph
-
+📈 GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=s4j1m&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-
 ---
-
 <p align="center">
   <i>"The key to success is continuous learning and improvement."</i>
 </p>
