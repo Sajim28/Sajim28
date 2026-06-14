@@ -36,7 +36,10 @@
 ║          ABIDUR RAHMAN SAJIM             ║
 ╠══════════════════════════════════════════╣
 ║  📍 Location  : Bashundhara, Dhaka 🇧🇩   ║
-║  🎓 Varsity   : AIUB — CSE (3rd–4th)    ║
+║  🎓 University: AIUB — American          ║
+║    International University Bangladesh  ║
+║  📚 Degree    : Computer Science &      ║
+║                  Engineering (CSE)      ║
 ║  💼 Role      : DevOps Engineer Student  ║
 ║  📫 Email     : sajimabidurrahman        ║
 ║                  @gmail.com              ║
